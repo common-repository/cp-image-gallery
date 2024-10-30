@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CP Image Gallery\n"
+"POT-Creation-Date: 2016-07-12 13:26+0530\n"
+"PO-Revision-Date: 2016-07-12 13:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: fxbenard | FxB <fx@fxbenard.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: cp-image-gallery.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/admin-page.php:8
+msgid "CP Image Gallery Settings"
+msgstr "CP Galerie d'images Paramètres"
+
+#: inc/admin-page.php:9
+msgid "Lightbox"
+msgstr "Boite à lumière"
+
+#: inc/admin-page.php:10
+msgid "Post Types"
+msgstr "Types de poste"
+
+#: inc/admin-page.php:11
+msgid "Use Pagination?"
+msgstr "Utilisez Pagination ?"
+
+#: inc/admin-page.php:12
+msgid "Number Of images per Page"
+msgstr "Nombre d'images par page"
+
+#: inc/admin-page.php:13
+msgid "Want to use Seo Options for CP Gallery?"
+msgstr "Vous souhaitez utiliser les options Seo pour CP Gallery?"
+
+#: inc/admin-page.php:14
+msgid "Want to use Full Width template for CP Gallery?"
+msgstr "Vous souhaitez utiliser la pleine modèle Largeur pour CP Gallery?"
+
+#: inc/admin-page.php:15
+msgid "Add Height and Width of the Image of Gallery"
+msgstr "Ajouter hauteur et la largeur de l'image de la Galerie"
+
+#: inc/admin-page.php:160
+msgid "Settings"
+msgstr "Paramètres"
+
+#: inc/cp-gallery.php:9
+msgctxt "Post Type General Name"
+msgid "CP Galleries"
+msgstr "CP Galeries"
+
+#: inc/cp-gallery.php:10
+msgctxt "Post Type Singular Name"
+msgid "CP Gallery"
+msgstr "CP Galerie"
+
+#: inc/cp-gallery.php:11
+msgid "CP Galleries"
+msgstr "CP Galeries"
+
+#: inc/cp-gallery.php:12
+msgid "Parent CP Gallery"
+msgstr "Parent Galerie CP"
+
+#: inc/cp-gallery.php:13
+msgid "All CP Galleries"
+msgstr "Toutes les galeries CP"
+
+#: inc/cp-gallery.php:14
+msgid "View CP Gallery"
+msgstr "Voir CP Galerie"
+
+#: inc/cp-gallery.php:15
+msgid "Add New CP Gallery"
+msgstr "Ajouter un nouveau CP Galerie"
+
+#: inc/cp-gallery.php:16
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: inc/cp-gallery.php:17
+msgid "Edit CP Gallery"
+msgstr "Modifier CP Gallery"
+
+#: inc/cp-gallery.php:18
+msgid "Update CP Gallery"
+msgstr "Mise à jour CP Gallery"
+
+#: inc/cp-gallery.php:19
+msgid "Search CP Gallery"
+msgstr "Rechercher CP Gallery"
+
+#: inc/cp-gallery.php:20
+msgid "Not Found"
+msgstr "Pas trouvé"
+
+#: inc/cp-gallery.php:21
+msgid "Not found in Trash"
+msgstr "Pas trouvé dans la corbeille"
+
+#: inc/cp-gallery.php:25
+msgid "cpgalleries"
+msgstr "cpgalleries"
+
+#: inc/cp-gallery.php:26
+msgid "CP Gallery news and reviews"
+msgstr "CP Galerie nouvelles et commentaires"
+
+#. Plugin Name of the plugin/theme
+#: inc/metabox.php:15
+msgid "CP Image Gallery"
+msgstr "Galerie CP Image"
+
+#: inc/metabox.php:61 inc/metabox.php:149
+msgid "Remove image"
+msgstr "Supprimer l'image"
+
+#: inc/metabox.php:75
+msgid "Add gallery images"
+msgstr "Ajouter galerie images"
+
+#: inc/metabox.php:90
+msgid "Link images to larger sizes"
+msgstr "Lien images à de plus grandes tailles"
+
+#: inc/metabox.php:124
+msgid "Add Images to Gallery"
+msgstr "Ajouter des images à la galerie"
+
+#: inc/metabox.php:126
+msgid "Add to gallery"
+msgstr "Ajouter à la galerie"
+
+#: inc/template-functions.php:53
+msgid "fancyBox"
+msgstr "fancyBox"
+
+#: inc/template-functions.php:54
+msgid "prettyPhoto"
+msgstr "prettyPhoto"
+
+#: inc/template-functions.php:359
+msgid "index,follow"
+msgstr "index,follow"
+
+#: inc/template-functions.php:360
+msgid "noindex,follow"
+msgstr "noindex,follow"
+
+#: inc/template-functions.php:361
+msgid "index,nofollow"
+msgstr "index,nofollow"
+
+#: inc/template-functions.php:362
+msgid "noindex,nofollow"
+msgstr "noindex,nofollow"
+
+#. Description of the plugin/theme
+msgid ""
+"Easy way to add gallery with images using run time resizer feature as well "
+"as with SEO frindly gallery url and display all galleries at one place. "
+msgstr ""
+"Un moyen facile d' ajouter la galerie avec des images en utilisant la "
+"fonction resizer de temps d'exécution , ainsi que la galerie avec frindly "
+"SEO URL et afficher toutes les galeries à un seul endroit ."
+
+#. Author of the plugin/theme
+msgid "Commerce Pundit"
+msgstr "Commerce Pundit"
+
+#~ msgid "An easy to use image gallery with drag & drop re-ordering"
+#~ msgstr ""
+#~ "Un facile à utiliser galerie d'images avec drag & drop réordonnancement"
+
+#~ msgid "SEO Settings for this CP Gallery"
+#~ msgstr "Paramètres SEO pour ce CP Gallery"
+
+#~ msgid ""
+#~ "Easy way to add gallery with images as well as with SEO frindly gallery "
+#~ "url and display all galleries at one place."
+#~ msgstr ""
+#~ "Un moyen facile d' ajouter la galerie avec des images ainsi qu'avec la "
+#~ "galerie frindly SEO URL et afficher toutes les galeries à un seul "
+#~ "endroit ."
+
+#~ msgid "Commercepundit"
+#~ msgstr "Commercepundit"

@@ -1,0 +1,54 @@
+/*CP Gallery*/
+.gallery-items .cpglry-item{
+     border: 1px solid #ddd;
+    float: left;
+    margin: 15px 0 0 2.4%;
+    padding: 0.5%;
+    text-align: center;
+}
+@media only screen and (max-width: 992px) {
+   .gallery-items .cpglry-item{ width: 30%;  } 
+}
+@media only screen and (max-width: 560px) { .gallery-items .cpglry-item{ width: 45%;  }  }
+@media only screen and (max-width: 400px) { .gallery-items .cpglry-item{ width: 86%;  }
+.gallery-items .cpglry-item {
+    display: table;
+    float: none;
+    margin: 10px auto;
+    width: auto;
+}
+.gallery-images {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+}
+}  
+.gallery-items .cpglry-item span{ 
+     background: #454545 none repeat scroll 0 0;
+    color: #fff;
+    display: table-footer-group;
+    font-weight: 700;
+    line-height: 38px;
+    padding: 7px 0;
+    width: auto;
+}
+.cpglry-item > a {
+    display: table;
+    float: left;
+    height: auto;
+    text-decoration: none;
+    width: 100%;
+    color: transparent;
+}
+.cpgallery-listing .cpglry-item > a img {
+    border-bottom: 1px solid #fff;
+    display: table-header-group;
+    padding: 0;
+}
+.cpgallery-listing.gallery-items, cpgallery-images-listing {
+    float: left;
+    width: 100%;
+}
+.cpglry-item img {
+    width: 100%;
+}
